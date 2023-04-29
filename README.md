@@ -11,3 +11,8 @@ This “Capstone Project” aims to investigate the relationship between genetic
 
 
 
+Researcher :
+
+UĞUR ERSÖZ
+
+BAU | Faculty of Engineering and Natural Sciences | Molecular Biology and Genetics Department | Senior
