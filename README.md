@@ -1,20 +1,30 @@
-# ☕Capstone Project🧬
+# BSc Capstone Project: CYP1A2 Genotypes and Caffeine Metabolism 🧬☕
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ugrersoz&show_icons=true)](https://github.com/ugrersoz)
 
-INVESTIGATION OF THE RELATIONSHIP BETWEEN CYP1A2 GENOTYPES, CAFFEINE METABOLISM AND ENHANCED SPORTS PERFORMANCE:
+## Overview 📚
+This repository contains the deliverables of my **BSc Capstone Project** completed as part of my undergraduate studies at **Bahçeşehir University (BAU)**, Faculty of Engineering and Natural Sciences, Department of Molecular Biology and Genetics. Titled **"Investigation of the Relationship Between CYP1A2 Genotypes, Caffeine Metabolism and Enhanced Sports Performance"**, this research explores a genetic-based approach to optimize caffeine consumption practices for a healthy sports lifestyle among university students and young-adult Turkish populations. The project was conducted under the supervision of senior faculty and reflects my expertise in genetic analysis and bioinformatics. 🎓
 
-A GENETIC BASED APPROACH TO OPTIMAL CAFFEINE CONSUMPTION PRACTICES FOR A HEALTHY SPORTS LIFESTYLE IN UNIVERSITY STUDENTS & YOUNG-ADULT TURKISH POPULATION
+## Project Description 🌟
+This study investigates the correlation between **CYP1A2 gene variants**, caffeine metabolism, and sports performance enhancement. Caffeine is known to improve athletic performance by reducing fatigue, increasing focus, and enhancing endurance. However, individual responses to caffeine vary due to genetic differences in the CYP1A2 gene region. The research leverages global studies and the **1000 Genomes Project** genetic data, combined with a survey of Turkish participants, to visualize and analyze these relationships. Key objectives include:
+- Raising awareness about the CYP1A2 gene and its role in caffeine metabolism.
+- Promoting genetics-based nutritional practices, starting with caffeine-containing foods.
+- Encouraging genetic studies for both sedentary and professional individuals in the Turkish population.
 
+## Research Highlights 🔬
+- Analyzes the impact of CYP1A2 genotypes on caffeine metabolism and sports performance.
+- Utilizes data from the 1000 Genomes Project and a custom survey for empirical validation.
+- Aims to provide actionable insights for personalized nutrition and sports training.
+- Demonstrates proficiency in genetic data analysis and Jupyter Notebook-based visualization.
 
+## Files 📂
+- **`Article #1-5.pdf` and `.xlsx`**: Supporting articles and data files related to caffeine metabolism and genetic studies.
+- **`Caffeine content of common foods, drinks and...`**: Dataset on caffeine levels in various consumables.
+- **`Capstone Project_Data.ipynb`**: Jupyter Notebook containing the data analysis and visualization code.
+- **`Genotypes for 1000GENOMES phase 3 EUR.xlsx`**: Genetic data from the 1000 Genomes Project for European populations.
 
+## Methodology 🛠️
+- **Data Collection**: Survey data from Turkish university students and young adults, supplemented by 1000 Genomes Project data.
+- **Analysis**: Statistical analysis and visualization using Python in Jupyter Notebook.
+- **Outcome**: Identification of genetic variants influencing caffeine metabolism and their impact on sports performance.
 
-
-This “Capstone Project” aims to investigate the relationship between genetics, sports performance and caffeine consumption. With the increasing interest in healthier sports lifestyles, balanced nutrition methods have gained importance. Since different variants of the CYP1A2 gene region responsible for caffeine metabolism can cause individuals to react differently to caffeine, it is crucial to determine the genetic background behind physical parameters. Caffeine is known to enhance sports performance by reducing fatigue, increasing focus and improving endurance. The research will analyze global studies and 1000 Genomes Project genetic data to visualize the relationship between genotypes and caffeine consumption in Turkey with close sample size. In addition, a survey will be conducted to collect current data on genetics, sports and caffeinated food consumption. The aim of the project is to raise awareness about the CYP1A2 gene and caffeine metabolism, the use of caffeine in accordance with the genetic background and genetics-based nutritional practices, starting with caffeine-containing foods to promote a healthy sports lifestyle. It also aims to increase genetic studies for both sedentary and professional individuals in the Turkish population.
-
-
-
-Researcher :
-
-UĞUR ERSÖZ
-
-BAU | Faculty of Engineering and Natural Sciences | Molecular Biology and Genetics Department | Senior
