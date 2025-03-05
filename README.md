@@ -28,10 +28,10 @@ This study investigates the correlation between **CYP1A2 gene variants**, caffei
 - **Outcome**: Identification of genetic variants influencing caffeine metabolism and their impact on sports performance.
 
 ## Prepared By
-Uğur Ersöz
-Bahçeşehir University | Faculty of Engineering and Natural Sciences | Molecular Biology and Genetics Department | Senior
-For inquiries, collaborations, or further details about the project.
-Contact: uersoz55@gmail.com
+**Uğur Ersöz**
+- Bahçeşehir University | Faculty of Engineering and Natural Sciences | Molecular Biology and Genetics Department | Senior
+- For inquiries, collaborations, or further details about the project.
+- Contact: uersoz55@gmail.com
 
 
 
