@@ -1,7 +1,5 @@
 # BSc Capstone Project: CYP1A2 Genotypes and Caffeine Metabolism 🧬☕
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ugrersoz&show_icons=true)](https://github.com/ugrersoz)
-
 ## Overview 📚
 This repository contains the deliverables of my **BSc Capstone Project** completed as part of my undergraduate studies at **Bahçeşehir University (BAU)**, Faculty of Engineering and Natural Sciences, Department of Molecular Biology and Genetics. Titled **"Investigation of the Relationship Between CYP1A2 Genotypes, Caffeine Metabolism and Enhanced Sports Performance"**, this research explores a genetic-based approach to optimize caffeine consumption practices for a healthy sports lifestyle among university students and young-adult Turkish populations. The project was conducted under the supervision of senior faculty and reflects my expertise in genetic analysis and bioinformatics. 🎓
 
