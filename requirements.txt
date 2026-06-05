@@ -1,0 +1,21 @@
+# Pinned for reproducibility of notebooks/01_cyp1a2_analysis.ipynb
+# Tested on Python 3.11. Newer minor versions are likely fine.
+#
+# Install with:
+#     python -m venv .venv
+#     .venv\Scripts\activate          (Windows PowerShell)
+#     source .venv/bin/activate       (macOS / Linux)
+#     pip install -r requirements.txt
+
+# --- Core data stack ---
+pandas==2.2.3
+numpy==1.26.4
+openpyxl==3.1.5            # required by pandas to read .xlsx genotype + caffeine files
+
+# --- Visualisation ---
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# --- Notebook environment ---
+jupyter==1.1.1
+ipykernel==6.29.5

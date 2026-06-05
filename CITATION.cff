@@ -1,0 +1,54 @@
+# YAML 1.2
+# Citation File Format 1.2.0 — https://citation-file-format.github.io/
+cff-version: 1.2.0
+message: "If you use this repository, please cite both the thesis and the software."
+title: "CYP1A2 Genotypes, Caffeine Metabolism and Sports Performance: Reproducible Analysis"
+abstract: >-
+  Reproducible Jupyter analysis accompanying the BSc capstone thesis on
+  CYP1A2 rs762551 genotype distributions and caffeine ergogenics, combining
+  the 1000 Genomes Project Phase 3 EUR panel with published Turkish and
+  international cohorts, plus an awareness survey of Turkish young adults.
+type: software
+authors:
+  - given-names: Uğur
+    family-names: Ersöz
+    email: uersoz55@gmail.com
+    affiliation: "Bahçeşehir University, Department of Molecular Biology and Genetics"
+    orcid: "https://orcid.org/0000-0000-0000-0000"   # TODO: replace with real ORCID or remove
+repository-code: "https://github.com/ugrersoz/bsc-capstone-project"
+url: "https://github.com/ugrersoz/bsc-capstone-project"
+license: MIT
+keywords:
+  - CYP1A2
+  - rs762551
+  - caffeine metabolism
+  - nutrigenetics
+  - sport genetics
+  - 1000 Genomes Project
+  - reproducible research
+version: "1.0.0"
+date-released: "2023-06-01"
+
+# Preferred citation = the underlying thesis
+preferred-citation:
+  type: thesis
+  title: >-
+    Investigation of the Relationship Between CYP1A2 Genotypes, Caffeine
+    Metabolism and Enhanced Sports Performance: A Genetic-Based Approach to
+    Optimal Caffeine Consumption Practices for a Healthy Sports Lifestyle in
+    University Students and Young-Adult Turkish Population
+  authors:
+    - given-names: Uğur
+      family-names: Ersöz
+  thesis-type: "BSc Capstone Project (MBG4999)"
+  institution:
+    name: "Bahçeşehir University, Faculty of Engineering and Natural Sciences, Department of Molecular Biology and Genetics"
+    city: Istanbul
+    country: TR
+  year: 2023
+  month: 6
+  # Advisor recorded as an additional contributor per CFF convention
+  contact:
+    - given-names: Zeynep
+      family-names: "Tacer Caba"
+      affiliation: "Bahçeşehir University (Thesis Advisor)"
