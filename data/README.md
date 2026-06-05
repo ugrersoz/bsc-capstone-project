@@ -1,7 +1,7 @@
 # Data Provenance
 
-This directory contains the raw input data consumed by
-`notebooks/01_cyp1a2_analysis.ipynb`. Each file is described below with its
+This directory documents the raw input data consumed by
+`../Capstone Project_Data.ipynb`. Each file is described below with its
 original source, the date it was retrieved, the licence under which it is
 redistributed (or not), and any preprocessing that was applied before it
 entered this repository.
@@ -11,23 +11,23 @@ For full bibliographic entries of the source publications, see
 
 ---
 
-## Directory layout
+## Current location of the data files
 
-```
-data/
-├── README.md                         (this file)
-└── raw/
-    ├── 1000g_phase3_eur_rs762551.xlsx
-    └── caffeine_content_foods.xlsx
-```
+For historical reasons, the raw data files described here are still kept at
+the **project root**, not under `data/raw/`. A future revision of the
+repository will move them. The two files are:
 
-Re-derived or cleaned outputs produced by the notebook (e.g. genotype-frequency
-tables, summary statistics) are written to `figures/` or kept in-memory; they
-are not stored in `data/` to keep the provenance chain unambiguous.
+- `../Genotypes for 1000GENOMES phase_3 EUR.xlsx`
+- `../Caffeine content of common foods, drinks and therapeutic products (Australia).xlsx`
+
+Re-derived or cleaned outputs produced by the notebook (genotype-frequency
+tables, summary statistics) are kept in-memory or written next to the
+notebook; they are not stored in `data/` to keep the provenance chain
+unambiguous.
 
 ---
 
-## 1. `raw/1000g_phase3_eur_rs762551.xlsx`
+## 1. `Genotypes for 1000GENOMES phase_3 EUR.xlsx` (repository root)
 
 **What.** Per-individual genotype calls at the *CYP1A2* intron-1 SNP
 **rs762551** (C>A) for the EUR (European-ancestry) super-population of the
@@ -59,7 +59,7 @@ No restrictions apply to redistribution of the subset stored here.
 
 ---
 
-## 2. `raw/caffeine_content_foods.xlsx`
+## 2. `Caffeine content of common foods, drinks and therapeutic products (Australia).xlsx` (repository root)
 
 **What.** Reference table of caffeine content (mg per standard serving) for
 common foods and beverages — coffee preparations, teas, energy drinks,
