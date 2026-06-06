@@ -61,6 +61,5 @@ desktop.ini
 # third-party articles; reference them by DOI in references/references.bib)
 *.tmp.pdf
 
-# Optional: ignore locally generated figure exports if you regenerate them
-# from the notebook on demand. Comment out to commit figures/.
-# figures/*.png
+# Survey microdata is not redistributed (see data/README.md)
+data/raw/survey_responses.xlsx

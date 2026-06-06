@@ -1,5 +1,5 @@
-# Pinned for reproducibility of notebooks/01_cyp1a2_analysis.ipynb
-# Tested on Python 3.11. Newer minor versions are likely fine.
+# Pinned for reproducibility of notebooks/01_cyp1a2_analysis.ipynb.
+# Tested on Python 3.11; newer minor versions are likely fine.
 #
 # Install with:
 #     python -m venv .venv
